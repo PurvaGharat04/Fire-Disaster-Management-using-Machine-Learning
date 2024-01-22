@@ -1,0 +1,63 @@
+﻿SrNo,ADDRESS,CAUSE,TypeOfEnv,NoOfFiremen,NoOfVehicles,CallTime,ReachTime,ReturnTime,SecondCallReqd,EquipmentUsed,CASUALITY,ACTION,ExtinguishedBy
+1,"snehadeep soc, koparkhairne, sec17",electric meter room S.C,residence,6,1,14:45,14:49,15:40,No,exhaust blower,No,extinguish,Firemen
+2,"vashi koparkhairne rd, sec16",overheaed car engine,burning car,7,1,9:35,9:37,10:10,No,water,No,disconnected battery & cooled engine,Firemen
+3,"vashi palm beach rd, sec16",cable caught fire(transformer),transformer,5,1,11:50,11:58,12:09,No,ABC fire extinguisher,No,lock broken,Firemen
+4,"omkar soc, sec22, turbhe gaon",fridge S.C,residence,5,1,5:30,5:34,6:30,No,water,No,extinguish,Firemen
+5,"thane belapur rd, sec 12, vashi, aminman apt",property caught fire from S.C,residence,5,1,10:15,10:18,10:56,No,water,No,extinguish,Firemen
+6,"devashish soc, vashi kopar rd, sec28, vashi",electric meter room S.C(plywood caught fire),residence,5,1,2:15,2:18,3:00,No,mini water tender,No,power cut & poured water,Firemen
+7,"vashi belapur rd, APMC market",SC,market,5,1,20:50,20:52,21:20,No,water,No,extinguish,Firemen
+8,"vashi kopar rd, sec15, room 567",air cooler caught fire,building,6,1,20:45,20:55,21:35,No,No,No,extinguished by civilians,Civilians
+9,"thane belapur rd, MIDC pawne, plot no 145",chemical drum caught fire,industry,4,1,1:05,1:15,1:51,Yes,water,No,extinguish,Firemen
+10,"angarika soc, sec 4, vashi",unknown,residence,5,1,2:25,2:27,2:55,No,No,No,electric supply cut by civilians & inspection by dept,Civilians
+11,"vashi, sec 10, next to reliance fresh",meter box caught fire,road,5,1,7:10,7:12,7:30,No,No,No,power supply cut & inspection,Firemen
+12,"vashi kopar rd, sec 17, yummy dosa",overhead S. C,road,5,1,13:30,13:33,13:50,No,No,No,power supply cut by civilians,Civilians
+13,"thane belapur rd, plot 46, sec 1, koparkhairne",internet cable box caught fire,residence,5,1,13:51,13:54,14:00,No,No,No,already extinguished by civilians,Civilians
+14,"turbhe vashi rd, kanda-batata market, sec18, sirsa comp",AC caught fire,commercial,6,1,17:47,17:50,18:25,No,"multipurpose fire engine, water",No,extinguish,Firemen
+15,"vashi kopar rd, sec 14, vashi, NMCV official, mumbai",AC caught fire,commercial,5,1,18:45,18:50,19:15,No,extinguisher,No,extinguished by civilians,Civilians
+16,"vashi belapur rd, sec18, vashi, veg hotel",fridge caught fire,hotel,5,1,17:40,17:42,18:35,No,"extinguisher, water",No,"extinguished by civilians, water by firemen",Civilians
+17,"vashi kopar rd, sec14, vashi, new alaknanda soc",Unknown,residence,5,1,3:55,3:59,6:30,No,water,No,extinguish,Firemen
+18,"vashi kopar rd, sec20, snehadeep hospital",wiring S.C,hospital,4,1,22:06,22:10,22:40,No,fire extinguisher,No,"current supply cut-off, extinguish",Firemen
+19,"sion panvel highway rd, vashi bridge, sec30",Unknown,car,4,1,16:15,16:20,16:50,No,mini water tender,No,extinguish,Firemen
+20,"Vashi Sion Panvel Highway,Sec17",Meter room caught fire,Residental,5,1,1:30,1:38,3:00,No,ABC fire extinguisher,No,Extinguish,Firemen
+21,"Vashi Koparkhirne Road,Sec 11,Palime apartment",Garbage caught fire due to fireworks,Residental,1,1,23:05,23:20,0:10,No,Mini tender,No,Extinguish,Firemen
+22,"Vashi koparkhairne rd, Sec 17, Dk wines",Shed caught fire,Wine Shop,4,1,21:32,21:33,21:52,No,Extinguisher,No,Extinguish by civilians,Civilians
+23,"Vashi koparkhairne rd, Sec 12,Ganesh row house, Plot 28",Indoor wooden mandir ,Residental,4,1,21:02,21:05,21:42,No,Multi-Purpose fire Extinguisher ,No,Extinguish,Firemen
+24,"Sion panvel highway rd, Vashi ,Sec16 behind Vishnudas Bhave",unknown,Road,5,1,9:25,9:26,9:47,No,2cans ABC fire extinguisher,Man was burned near transformer,Extinguish,Firemen
+25,"Vashi Koparkhirne Road, Sec 19 Shivam apartment",Bedsheet / Matres caught fire,Residental,9,2,22:55,22:57,23:55,Yes,Multi water tender ,No,Extinguish by civilians,Civilians
+26,"Vashi Koparkhirne Road, near bus depot",Tree caught fire,Bus Depot,4,1,22:08,23:02,22:50,No,Multi-Purpose fire Extinguisher ,No,Extinguish,Firemen
+27,"vashi turbhe road sec18,mapro market",Garbage caught fire ,road,4,1,17:45,17:49,18:25,No,Multi water tender ,No,Extinguish ,Firemen
+28,"vashi kopar rd, sec 10, behind shabri hotel",unknown,road,4,1,3:10,3:12,4:10,No,water,No,Extinguish ,Firemen
+29,"thane belapur highway ,turbhe dumping ground",unknown,road,10,3,4:45,4:50,7:23,Yes,"Water browser ,multipurpose water tender and sand",No,Extinguish ,Firemen
+30,"sion panvel highway rd,hari om computer shop sec17",wiring ,Shop,5,1,19:35,19:38,20:55,No,Multi water tender ,No,Extinguish ,Firemen
+31,"thane belapur rd, MIDC dumping ground,bk enterprise godowns",chemical drum caught fire,Office,6,1,6:20,6:25,10:50,No,Water browser ,No,Extinguish ,Firemen
+32,"Vashi Sion Panvel sec 6, wokaand hospital",unknown,hospital,4,1,21:00,21:05,22:11,No,mini water tender,No,Extinguish ,Firemen
+33,"vashi palm beach rd, inorbit mall","Garbage ,underground cable",Road ,4,1,14:10,14:12,14:40,No,Multpurpose water tender,No,Extinguish ,Firemen
+34,"Thane Belapur road,Turbhe naka,near bridge",Tree caught fire,road,5,1,7:02,7:05,7:50,No,water,No,Extinguish ,Firemen
+35,"Vashi koparkhairne rd, Sec 12,railway station slum area",unknown,rail road,5,1,16:10,16:15,17:25,No,Fire engine pump and water,No,Extinguish ,Firemen
+36,"sion panvel highway rd,kerala bhawan",Garbage caught fire ,ground,5,1,11:55,11:58,0:35,No,Multi-Purpose fire Extinguisher ,No,Extinguish ,Firemen
+37,"sion panvel highway rd,sahitya sabhagruha, sec6",Short circuit of solar panel,Residental,5,1,14:33,14:37,15:06,No,ABC fire extinguisher,No,Extinguish ,Firemen
+38,panvel vashi gaon slum area jagratheshwar temple road,Grass,slum,5,1,21:50,21:55,22:40,No,Multi-Purpose fire Extinguisher ,No,Extinguish ,Firemen
+39,sion panvel highway rd,Riots,Road ,5,1,20:05,20:10,21:15,No,gas engine and water,No,Extinguish ,Firemen
+40,"thane belapur highway ,turbhe gaon, sec22",mscb DP short circuit,road,5,1,4:35,4:40,5:05,No,fire extinguisher and muti purpose tender,No,Cut off supply,Firemen
+41,"Sion panvel rd, Vashi khadi Mumbai- Panvel Highway Rd",Car Engine's battery wiring S. C,Road,5,1,17:52,17:59,20:52,No,Fire engine pump,No,Extinguish water ,Firemen
+42,"sion panvel highway rd, mumbai-pune khadi bridge",Engine got overheated,Road ,4,1,18:45,18:55,19:20,No,No,No,Civilians used water,Civilians
+43,"vashi koparkhairne highway rd, sec28, behind Diamond hotel",Grass,Road ,4,1,21:00,21:05,21:56,No,Mini water tender,No,Extinguish water ,Firemen
+44,"vashi palm beach rd, sec 4, behind vrindhavan society",Transformer wire caught fire,Road ,5,1,12:55,13:00,13:40,No,Fire engine pump,No,"Stopped supply of transformer , extinguish ",Firemen
+45,"vashi palm beach uran rf, vaishav logistics, container godown",unknown,Godown,0,0,16:00,16:35,17:00,No,Water browser ,No,Extinguish water ,Firemen
+46,thane belapur highway rd APMC market office,Car's engine caught fire,Road ,5,1,16:50,16:57,17:55,No,Multi water tender,No,Extinguish ,Firemen
+47,"sion panvel vashi gaon, plot 57, ganga society ",Short circuit of cable,Residental,5,1,6:15,6:17,6:35,No,No,No,Main supply was stopped,Firemen
+48,"thane belapur rd, koparkhairne, sec2, prestige exclusive shop",unknown,Shop,4,1,12:17,12:20,2:45,No,Water ,No,Extinguish water ,Firemen
+49,"sion panvel, sce 6, MSCB",MSCB pillar caught fire,Road ,4,1,15:04,15:14,15:25,No,No,No,MSCB supply cut off,Firemen
+50,"Vashi koparkhairne rd, JN society ",Room's tubelight S. C,Room,5,1,15:45,15:50,15:59,No,No,No,Civilians called wiremen to cut off supply,Civilians
+51,"vashi, sec16, neelgiri society,  street",Street light S. C,Road ,5,1,19:58,20:00,20:15,No,Mini water tender,No,Extinguish water ,Firemen
+52,"Turbhe Road,APMC,Bunder Market",Car caught fire,Road,5,1,14:00,14:05,15:05,No,Water,No,Extinguisher,Firemen
+53,"Sion Panvel, Sec17,Jai Jawn Building",First Floor cable caught fire,Residental,5,1,22:50,22:55,23:10,No,Mini water tender,No,Cut off supply,Firemen
+54,"Shikha Tower,Sec 1, Koparkhairne",Meter room caught fire,Office,5,1,23:05,23:10,23:45,No,No,No,Cut off supply,Firemen
+55,"Sion Panvel, Sec 9,Millenium Tower",Meter room caught fire,Residental,5,1,8:47,8:53,9:23,No,No,No,Civilians used fire extinguisher,Civilians
+56,"Thane Belapur road,Sec 10,Police Station",Riots,Room,5,1,18:30,18:38,20:30,No,Multi-Purpose fire extinguisher and water,No,Extinguisher,Firemen
+57,"Vashi Koparkhirne Road,Sec 17,APMC,Kanda Batata Market,Inside Cabin",Stove caught fire,Room,5,1,16:15,16:17,16:30,No,No,No,Civilians used water,Civilians
+58,"Sion Panvel, Sec 13,Bajrang Paper Mart",Short circuit,Shop,5,1,12:24,12:28,12:55,No,ABC fire extinguisher,No,Cut off supply and extinguish,Firemen
+59,"Vashi Koparkhirne Road,Sec 11,Juhu Gaon,Hotel Kapil Bar",Cylinder caught fire,Hotel,5,1,12:00,12:05,12:25,No,ABC powder,No,Extinguish Water,Firemen
+60,"Thane Belapur road,Turbhe naka",Truck's cabin caught fire,Road,4,1,0:25,0:31,1:10,No,Water,No,Extinguish Water,Firemen
+61,"Vashi Thane Palm beach road,Sec11,Ananya Vas Building",Room caught fire,Room,5,1,21:40,21:50,22:25,No,Multi-Purpose fire extinguisher and water,No,Extinguish,Firemen
+62,"Shikha Tower,Sec 1, Koparkhairne",Meter room caught fire,Office,4,1,22:00,22:05,22:57,No,Multi-Purpose fire extinguisher and water,No,Extinguish,Firemen
